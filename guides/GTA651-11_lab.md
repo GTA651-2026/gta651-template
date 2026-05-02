@@ -51,7 +51,7 @@ Pause. Affichage du canevas de tableau de bord pour préparer l'exercice.
 
 ### Partie 4 — Exercice : votre tableau de bord  *(40 min)*
 
-Individuel : concevoir le mockup pour Morgan Stanley, Pfizer, ou un agent du milestone M7/M8. Partage en paires (5 min chacun) avec critique sur : seuils justifiés ? Public clair ? Action déclenchée par chaque alerte ? 2-3 partages au groupe.
+Individuel : concevoir le mockup pour Morgan Stanley, Pfizer, ou un agent du milestone M3/M4. Partage en paires (5 min chacun) avec critique sur : seuils justifiés ? Public clair ? Action déclenchée par chaque alerte ? 2-3 partages au groupe.
 
 ## Lab
 

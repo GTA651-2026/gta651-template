@@ -51,7 +51,7 @@ Pause. Distribuer le canevas wireframe HITL.
 
 ### Partie 4 — Exercice : votre design HITL  *(40 min)*
 
-Individuel : dessiner le wireframe annoté pour Goldman, Pfizer, Brex ou un agent du milestone M7-M10. Partage en paires (5 min chacun) avec critique sur : le mécanisme anti-bias est-il robuste ? Que se passe-t-il après 6 mois d'usage ? 2-3 partages au groupe.
+Individuel : dessiner le wireframe annoté pour Goldman, Pfizer, Brex ou un agent du milestone M3-M5. Partage en paires (5 min chacun) avec critique sur : le mécanisme anti-bias est-il robuste ? Que se passe-t-il après 6 mois d'usage ? 2-3 partages au groupe.
 
 ## Lab
 

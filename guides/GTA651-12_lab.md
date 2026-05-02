@@ -52,7 +52,7 @@ Pause. Distribuer la grille d'audit éthique pour préparer l'exercice.
 
 ### Partie 4 — Exercice : audit éthique  *(40 min)*
 
-Individuel : remplir la grille d'audit pour Goldman, Pfizer, ou un agent du milestone M7/M8/M9. Partage en paires (5 min chacun) avec critique sur : sources de biais plausibles ? Cadre de gouvernance opérationnel ? Référence réglementaire correcte ? 2-3 partages au groupe.
+Individuel : remplir la grille d'audit pour Goldman, Pfizer, ou un agent du milestone M3/M4. Partage en paires (5 min chacun) avec critique sur : sources de biais plausibles ? Cadre de gouvernance opérationnel ? Référence réglementaire correcte ? 2-3 partages au groupe.
 
 ## Lab
 
@@ -69,7 +69,7 @@ Individuel : remplir la grille d'audit pour Goldman, Pfizer, ou un agent du mile
 
 - **Échéance :** Avant la séance 13 (12 août 2026)
 - **Artefacts requis :**
-  - `portfolio/M10_audit_ethique.pdf`
+  - `portfolio/M5_audit_ethique.pdf`
   - `ai-usage.md`
 - **Rubrique de notation :**
   - **sources_biais_identifiees** (25 %) — Sources plausibles dans les données, le modèle ou le déploiement.

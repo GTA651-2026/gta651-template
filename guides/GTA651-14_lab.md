@@ -69,7 +69,7 @@ Par équipes de 3-4 : organisation fictive de 300 employés, secteur au choix. C
 
 - **Échéance :** Avant l'examen final (26 août 2026)
 - **Artefacts requis :**
-  - `portfolio/M12_feuille_route_adoption.pdf`
+  - `portfolio/M6_feuille_route_adoption.pdf`
   - `ai-usage.md`
 - **Rubrique de notation :**
   - **strategie_justifiee** (15 %) — Choix de stratégie (usage-first / top-down / governance-first) justifié par le contexte.

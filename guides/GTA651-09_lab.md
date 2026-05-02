@@ -69,7 +69,7 @@ Chaque équipe (5-7 min) présente son business case devant un comité fictif. L
 
 - **Échéance :** Avant la séance 10 (22 juillet 2026)
 - **Artefacts requis :**
-  - `portfolio/M8_business_case.pdf`
+  - `portfolio/M4_business_case.pdf`
   - `ai-usage.md`
 - **Rubrique de notation :**
   - **probleme_quantifie** (15 %) — Le problème est chiffré, pas vague.
