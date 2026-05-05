@@ -40,7 +40,7 @@ Synthétiser les sessions 6-8 pour construire un business case complet justifian
 
 ### Partie 1 — Briefing IndustrIA et benchmarks  *(30 min)*
 
-Wooclap d'ouverture sur 'la question du CFO'. Présentation du contexte IndustrIA : 500 employés, 1.5 M$ disponibles, deux projets agentiques compétitifs (maintenance prédictive vs CFO virtuel). Présentation des 3 benchmarks publics (NVIDIA, Brex, Citibank). Format du business case 1 page. Critères d'évaluation explicites.
+Sondage d'ouverture sur 'la question du CFO'. Présentation du contexte IndustrIA : 500 employés, 1.5 M$ disponibles, deux projets agentiques compétitifs (maintenance prédictive vs CFO virtuel). Présentation des 3 benchmarks publics (NVIDIA, Brex, Citibank). Format du business case 1 page. Critères d'évaluation explicites.
 
 ### Partie 2 — Construction du business case en équipe  *(70 min)*
 

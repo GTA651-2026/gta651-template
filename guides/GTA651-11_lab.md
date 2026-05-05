@@ -39,7 +39,7 @@ Maîtriser les métriques clés pour évaluer l'IA en s'appuyant sur des donnée
 
 ### Partie 1 — Métriques techniques vs métriques d'affaires  *(50 min)*
 
-Wooclap d'ouverture. Cas Morgan Stanley : heures économisées > précision du modèle. Cas Pfizer : le coût d'une erreur de classification réglementaire. Le gap labo- production : pourquoi un bon modèle peut échouer. La pyramide des métriques : techniques (équipe IA), opérationnelles (managers), d'affaires (C-suite).
+Sondage d'ouverture. Cas Morgan Stanley : heures économisées > précision du modèle. Cas Pfizer : le coût d'une erreur de classification réglementaire. Le gap labo- production : pourquoi un bon modèle peut échouer. La pyramide des métriques : techniques (équipe IA), opérationnelles (managers), d'affaires (C-suite).
 
 ### Partie 2 — Concevoir un tableau de bord IA  *(50 min)*
 

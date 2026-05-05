@@ -40,7 +40,7 @@ Analyser les enjeux éthiques réels de l'IA en entreprise à partir des cas ét
 
 ### Partie 1 — Apple Card : allégations, enquête NY-DFS et leçons de gouvernance  *(50 min)*
 
-Wooclap d'ouverture sur la responsabilité. Décortiquer le scandale Apple Card 2019 : chronologie, sources possibles du biais (données historiques, variables proxy), réaction du régulateur NY-DFS, coûts pour Goldman et Apple. Taxonomie des biais agentiques : biais des données, biais de conception, biais de déploiement, biais d'interprétation.
+Sondage d'ouverture sur la responsabilité. Décortiquer le scandale Apple Card 2019 : chronologie, sources possibles du biais (données historiques, variables proxy), réaction du régulateur NY-DFS, coûts pour Goldman et Apple. Taxonomie des biais agentiques : biais des données, biais de conception, biais de déploiement, biais d'interprétation.
 
 ### Partie 2 — Pfizer : gouvernance by design  *(50 min)*
 

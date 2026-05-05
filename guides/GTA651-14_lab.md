@@ -40,7 +40,7 @@ Créer une feuille de route d'adoption IA en analysant les stratégies réelles 
 
 ### Partie 1 — Trois stratégies d'adoption réelles  *(50 min)*
 
-Wooclap d'ouverture. Morgan Stanley (usage-first / bottom-up), Goldman Sachs (top-down / mandat exécutif), Pfizer (governance-first). Forces, faiblesses, contextes d'application. Pourquoi le 'meilleur' dépend du secteur, de la taille et de la culture. Le mythe du taux d'utilisation comme métrique unique.
+Sondage d'ouverture. Morgan Stanley (usage-first / bottom-up), Goldman Sachs (top-down / mandat exécutif), Pfizer (governance-first). Forces, faiblesses, contextes d'application. Pourquoi le 'meilleur' dépend du secteur, de la taille et de la culture. Le mythe du taux d'utilisation comme métrique unique.
 
 ### Partie 2 — Construire la feuille de route en 4 phases  *(50 min)*
 

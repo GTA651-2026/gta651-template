@@ -39,7 +39,7 @@ Concevoir un pipeline de décision assistée par l'IA en s'inspirant des cas ré
 
 ### Partie 1 — Anatomie d'un pipeline de décision IA  *(50 min)*
 
-Reconnexion après la pause de 3 semaines (Fête nationale + relâche estivale) : 5 min pour rappeler les cas Citibank et NVIDIA de S07 — simulation de risque, gap sim-to-real, calibration de la confiance. Pont : 'En S07, vous avez évalué des agents prédictifs. Aujourd'hui : quand ces agents produisent un résultat, qui décide d'agir — et comment ?' Wooclap d'ouverture sur l'autonomie. Trois architectures réelles : Goldman (HITL strict), Morgan Stanley (HOTL — humain supervise), Brex (HOTL avec escalade conditionnelle). Quand chaque architecture est appropriée. Les 3 facteurs qui déterminent le niveau d'autonomie : enjeu de la décision, coût de l'erreur, disponibilité d'un expert humain.
+Reconnexion après la pause de 3 semaines (Fête nationale + relâche estivale) : 5 min pour rappeler les cas Citibank et NVIDIA de S07 — simulation de risque, gap sim-to-real, calibration de la confiance. Pont : 'En S07, vous avez évalué des agents prédictifs. Aujourd'hui : quand ces agents produisent un résultat, qui décide d'agir — et comment ?' Sondage d'ouverture sur l'autonomie. Trois architectures réelles : Goldman (HITL strict), Morgan Stanley (HOTL — humain supervise), Brex (HOTL avec escalade conditionnelle). Quand chaque architecture est appropriée. Les 3 facteurs qui déterminent le niveau d'autonomie : enjeu de la décision, coût de l'erreur, disponibilité d'un expert humain.
 
 ### Partie 2 — Seuils, escalade et feedback  *(50 min)*
 

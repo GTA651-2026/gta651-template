@@ -40,7 +40,7 @@ Apprendre à évaluer et sélectionner des solutions IA en comparant des déploi
 
 ### Partie 1 — Taxonomie des agents IA : décision, opérations, productivité  *(50 min)*
 
-Wooclap d'ouverture : quelle tâche vous vole le plus de temps ? Lien avec S01 : si la complexité technique monte, quels rôles voulez-vous orchestrer en premier ? Trois catégories d'agents : décision (Salesforce Einstein — prédire, recommander), opérations (Brex — exécuter, catégoriser, alerter), productivité (Copilot 365 — résumer, rédiger, analyser). Matrice généraliste vs spécialisé × faible enjeu vs haut enjeu. Chaque catégorie illustrée avec son rôle spécialisé et ses prérequis.
+Sondage d'ouverture : quelle tâche vous vole le plus de temps ? Lien avec S01 : si la complexité technique monte, quels rôles voulez-vous orchestrer en premier ? Trois catégories d'agents : décision (Salesforce Einstein — prédire, recommander), opérations (Brex — exécuter, catégoriser, alerter), productivité (Copilot 365 — résumer, rédiger, analyser). Matrice généraliste vs spécialisé × faible enjeu vs haut enjeu. Chaque catégorie illustrée avec son rôle spécialisé et ses prérequis.
 
 ### Partie 2 — Cadre de sélection appliqué  *(50 min)*
 

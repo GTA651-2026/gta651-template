@@ -40,7 +40,7 @@ Comprendre comment l'IA transforme les pratiques de prévision et de modélisati
 
 ### Partie 1 — Citibank : l'IA prédictive en finance  *(50 min)*
 
-Wooclap d'ouverture sur la confiance à 75 %. Modélisation des risques : historique vs simulation. Comment Citibank génère des futurs possibles. Limites : le modèle ne peut pas prédire le sans-précédent (cygne noir). Calibration de la confiance : qu'est-ce que '75 %' signifie vraiment ? Le rôle du gestionnaire qui orchestre l'agent : interpréter, contextualiser, décider — pas exécuter aveuglément.
+Sondage d'ouverture sur la confiance à 75 %. Modélisation des risques : historique vs simulation. Comment Citibank génère des futurs possibles. Limites : le modèle ne peut pas prédire le sans-précédent (cygne noir). Calibration de la confiance : qu'est-ce que '75 %' signifie vraiment ? Le rôle du gestionnaire qui orchestre l'agent : interpréter, contextualiser, décider — pas exécuter aveuglément.
 
 ### Partie 2 — NVIDIA : données synthétiques approfondies  *(50 min)*
 

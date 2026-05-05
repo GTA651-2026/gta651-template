@@ -39,7 +39,7 @@ Transformer une idée d'automatisation en cas d'usage structuré et priorisé. U
 
 ### Partie 1 — Le cycle de vie d'un agent IA  *(50 min)*
 
-Wooclap d'ouverture : quel pourcentage des projets IA arrivent en production ? Révélation : environ 13-15 % — 87 % s'arrêtent au POC. Les 5 raisons principales d'échec (facteurs organisationnels, pas techniques). Cinq phases avec Pfizer Charlie comme fil rouge : cadrage → POC à faible risque → pilote avec métriques → déploiement avec gouvernance → suivi continu. Pourquoi Charlie a commencé par le marketing avant les revues médicales : gérer le risque d'abord, pas l'impact. Le déploiement se prépare dès le cadrage.
+Sondage d'ouverture : quel pourcentage des projets IA arrivent en production ? Révélation : environ 13-15 % — 87 % s'arrêtent au POC. Les 5 raisons principales d'échec (facteurs organisationnels, pas techniques). Cinq phases avec Pfizer Charlie comme fil rouge : cadrage → POC à faible risque → pilote avec métriques → déploiement avec gouvernance → suivi continu. Pourquoi Charlie a commencé par le marketing avant les revues médicales : gérer le risque d'abord, pas l'impact. Le déploiement se prépare dès le cadrage.
 
 ### Partie 2 — Le canevas de cas d'usage IA  *(50 min)*
 

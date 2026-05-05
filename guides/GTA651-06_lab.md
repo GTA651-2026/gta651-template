@@ -39,7 +39,7 @@ Identifier comment l'IA permet aux organisations de se différencier en analysan
 
 ### Partie 1 — L'IA comme arme stratégique  *(50 min)*
 
-Wooclap d'ouverture sur les sources d'avantage concurrentiel. Stratégies offensives (créer un nouveau marché) vs défensives (protéger un marché existant). Cas NVIDIA : comment les données synthétiques changent les règles du jeu et créent une position de plateforme. Cas Cohere : le B2B comme position défendable face à un géant grand public. Distinction cruciale : produit vs plateforme, différenciation vs domination.
+Sondage d'ouverture sur les sources d'avantage concurrentiel. Stratégies offensives (créer un nouveau marché) vs défensives (protéger un marché existant). Cas NVIDIA : comment les données synthétiques changent les règles du jeu et créent une position de plateforme. Cas Cohere : le B2B comme position défendable face à un géant grand public. Distinction cruciale : produit vs plateforme, différenciation vs domination.
 
 ### Partie 2 — Analyse concurrentielle approfondie  *(50 min)*
 
