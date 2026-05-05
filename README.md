@@ -45,6 +45,20 @@ liste de contrôle de remise et la page de soumission.
 
 ---
 
+## S01 — Fiche d'opportunite agentique
+
+Votre premier livrable est une **fiche d'opportunite agentique** basee sur un des trois cas vus en classe (Klarna, GitHub Copilot Enterprise ou Morgan Stanley).
+
+Un gabarit pre-rempli avec les 6 champs est disponible dans :
+`portfolio/L1_reflexion_role_specialise.md`
+
+1. Ouvrez le fichier `.md`, remplissez les 6 champs
+2. Exportez en PDF (ou redigez directement un PDF)
+3. Deposez `L1_reflexion_role_specialise.pdf` dans `portfolio/`
+4. Mettez a jour `ai-usage.md`
+
+---
+
 ## Comment soumettre un livrable
 
 Vous n'avez **pas besoin** de connaître Git. Tout se fait dans le navigateur.
