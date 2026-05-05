@@ -115,5 +115,5 @@ Gabarit de déclaration disponible ici : `ai-usage.md` (ce fichier est pré-remp
 
 ## Questions ?
 
-Contactez le professeur via la messagerie du cours (ZoneCours / Teams).
+Contactez le professeur via la messagerie du cours (Teams).
 Ne partagez pas votre lien de dépôt avec d'autres étudiants.
