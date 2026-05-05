@@ -4,7 +4,7 @@ Bienvenue dans votre dépôt de portfolio pour **GTA651 — Intelligence artific
 
 Ce dépôt est **privé** : seul vous et le professeur pouvez le consulter.
 
-> **Lien d'acceptation du devoir :** [https://classroom.github.com/a/UODWPQxR](https://classroom.github.com/a/UODWPQxR)
+> **Lien d'acceptation du devoir :** [https://classroom.github.com/a/HXideRHD](https://classroom.github.com/a/HXideRHD)
 
 ---
 
@@ -115,5 +115,5 @@ Gabarit de déclaration disponible ici : `ai-usage.md` (ce fichier est pré-remp
 
 ## Questions ?
 
-Contactez le professeur via la messagerie du cours (Teams).
+Contactez le professeur via la messagerie du cours (ZoneCours / Teams).
 Ne partagez pas votre lien de dépôt avec d'autres étudiants.
