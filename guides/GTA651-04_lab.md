@@ -83,7 +83,7 @@ Chaque équipe présente son mémo au 'DG de FinServ' en 3 minutes. Le DG pose 2
 - [Loi 25 Québec — Résumé pour gestionnaires (CAI)](https://www.cai.gouv.qc.ca/entreprises/loi-25/) — Obligations des organisations québécoises pour les projets IA utilisant des données personnelles.
 - [AMF — Utilisation de l'IA dans les services financiers](https://lautorite.qc.ca/) — Cadre réglementaire de l'AMF pour les institutions financières québécoises utilisant l'IA.
 - [HBR — Building the AI-Powered Organization (2019)](https://hbr.org/2019/07/building-the-ai-powered-organization) — Comment structurer une organisation pour tirer parti de l'IA de façon durable.
-- [Révision S01-S03 : fiches Klarna, GitHub Copilot, Morgan Stanley, Pfizer](https://notion.so) — Réviser les 4 cas étudiés depuis le début du cours avant cet atelier.
+- [Révision S01-S03 : fiches Klarna, GitHub Copilot, Morgan Stanley, Pfizer](https://classroom.github.com/a/HXideRHD) — Réviser les fiches d'opportunité, grilles de sélection et canevas produits aux S01-S03 dans votre portfolio GitHub Classroom avant cet atelier.
 
 ---
 

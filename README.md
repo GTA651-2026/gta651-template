@@ -1,6 +1,6 @@
 # GTA651 — Portfolio personnel
 
-Bienvenue dans votre dépôt de portfolio pour **GTA651 — Intelligence artificielle agentique en gestion**.
+Bienvenue dans votre dépôt de portfolio pour **GTA651 — IA appliquée à la gestion**.
 
 Ce dépôt est **privé** : seul vous et le professeur pouvez le consulter.
 
@@ -56,7 +56,7 @@ Un nom incorrect = livrable introuvable lors de la correction.
 
 **Jalons lourds (1,5 % chacun, 9 % total) :**
 
-| Jalon | Seance | Nom de fichier exact |
+| Jalon | Séance | Nom de fichier exact |
 |-------|--------|----------------------|
 | M1 | S02 | `M1_grille_selection_agents.pdf` |
 | M2 | S04 | `M2_memo_finserv.pdf` |
@@ -65,9 +65,9 @@ Un nom incorrect = livrable introuvable lors de la correction.
 | M5 | S12 | `M5_audit_ethique.pdf` |
 | M6 | S14 | `M6_feuille_route_adoption.pdf` |
 
-**Exercices legers (1 % chacun, 6 % total) :**
+**Exercices légers (1 % chacun, 6 % total) :**
 
-| Exercice | Seance | Nom de fichier exact |
+| Exercice | Séance | Nom de fichier exact |
 |----------|--------|----------------------|
 | L1 | S01 | `L1_reflexion_role_specialise.pdf` |
 | L3 | S03 | `L3_risques_cycle_vie.pdf` |

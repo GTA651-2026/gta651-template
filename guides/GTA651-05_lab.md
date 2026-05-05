@@ -22,7 +22,7 @@ Démontrer la maîtrise des concepts des sessions couvertes à travers l'analyse
 ## Points clés
 
 - Klarna, GitHub Copilot, Morgan Stanley : l'agent orchestre un rôle spécialisé — le gestionnaire pilote, pas le spécialiste.
-- Brex vs Goldman Sachs : même type d'IA, contexte radicalement différent — la sélection dépend du contexte, pas de la puissance.
+- Brex vs Salesforce Einstein : même catégorie d'IA générative, contextes radicalement différents (PME vs grande entreprise CRM) — la sélection dépend du contexte, pas de la puissance.
 - Grille de sélection : impact × faisabilité × risque × coût. Le contexte organisationnel pondère chaque critère.
 - Canevas 7 sections : problème → rôle agent → données → solution → métriques → risques → plan.
 - Mémo exécutif : répond aux questions du DG, pas aux questions du data scientist.
