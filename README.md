@@ -4,8 +4,6 @@ Bienvenue dans votre dépôt de portfolio pour **GTA651 — IA appliquée à la 
 
 Ce dépôt est **privé** : seul vous et le professeur pouvez le consulter.
 
-> **Lien d'acceptation du devoir :** [https://classroom.github.com/a/HXideRHD](https://classroom.github.com/a/HXideRHD)
-
 ---
 
 ## Structure du dépôt
