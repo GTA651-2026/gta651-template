@@ -47,7 +47,7 @@ Sondage d'ouverture : quel spécialiste vous manque ? Définition de l'IA et dis
 
 ### Partie 2 — Trois agents, trois rôles spécialisés — le même paradigme  *(50 min)*
 
-Analyse des trois cas en séquence, chacun présenté selon la même structure : (1) le problème d'affaires avant l'agent, (2) le rôle spécialisé que l'agent orchestre, (3) la valeur créée mesurée, (4) ce que le gestionnaire fait maintenant que l'agent fait le travail spécialisé. Klarna : 700 agents de service client → le gestionnaire orchestre la capacité plutôt que de la recruter. GitHub Copilot Enterprise chez Accenture : 12 000 développeurs augmentés (67 % usage quotidien, 55 % plus rapide en tâches contrôlées) + gestionnaires non-techniques qui pilotent du code → la barrière idée/implémentation s'effondre. Morgan Stanley : des décennies de recherche accessibles en secondes → le conseiller pilote la stratégie client plutôt que de chercher. Discussion en équipes sur le schéma commun : dans les trois cas, qu'est-ce que le gestionnaire peut faire maintenant qu'il ne pouvait pas faire avant ?
+Analyse des trois cas en séquence, chacun présenté selon la même structure : (1) le problème d'affaires avant l'agent, (2) le rôle spécialisé que l'agent orchestre, (3) la valeur créée mesurée, (4) ce que le gestionnaire fait maintenant que l'agent fait le travail spécialisé. Klarna : 700 agents de service client → le gestionnaire orchestre la capacité plutôt que de la recruter. GitHub Copilot Enterprise chez Accenture : 12 000 développeurs augmentés (67 % usage quotidien, 55 % plus rapide en tâches contrôlées) + gestionnaires non-techniques qui pilotent du code → la barrière idée/implémentation s'effondre. Morgan Stanley : des décennies de recherche accessibles en secondes → le conseiller pilote la stratégie client plutôt que de chercher. Discussion collective sur le schéma commun : dans les trois cas, qu'est-ce que le gestionnaire peut faire maintenant qu'il ne pouvait pas faire avant ?
 
 ### Partie 3 — Pause  *(10 min)*
 
@@ -55,7 +55,7 @@ Pause. Afficher l'énoncé de l'exercice à l'écran avant le retour.
 
 ### Partie 4 — Exercice : votre fiche d'opportunité agentique  *(40 min)*
 
-Par équipes de 3 : choisir UN des trois cas (Klarna, GitHub Copilot Enterprise ou Morgan Stanley), remplir la fiche d'opportunité agentique (6 champs), puis présenter en 2 minutes. Questions d'ancrage : quel rôle spécialisé l'agent orchestre-t-il ? Quelle décision le gestionnaire peut-il prendre maintenant qu'il ne pouvait pas prendre avant ? 3-4 équipes présentent, vote de la classe sur la fiche la plus convaincante. Débrief collectif : quelles conditions rendent un déploiement agentique viable vs risqué ?
+Individuellement : choisir UN des trois cas (Klarna, GitHub Copilot Enterprise ou Morgan Stanley), remplir la fiche d'opportunité agentique (6 champs). Questions d'ancrage : quel rôle spécialisé l'agent orchestre-t-il ? Quelle décision le gestionnaire peut-il prendre maintenant qu'il ne pouvait pas prendre avant ? 4-5 étudiants présentent leur fiche en 2 minutes, vote de la classe sur la fiche la plus convaincante. Débrief collectif : quelles conditions rendent un déploiement agentique viable vs risqué ?
 
 ## Lab
 
