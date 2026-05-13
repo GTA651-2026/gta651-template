@@ -65,7 +65,7 @@ Individuellement : choisir UN des trois cas (Klarna, GitHub Copilot Enterprise o
 
 **Fichiers à produire (`repo_artifacts`) :**
 
-- `portfolio/L1_reflexion_role_specialise.pdf` — Réflexion complétée, format PDF ou texte
+- `portfolio/S01_fiche_opportunite_agentique.pdf` — Fiche d'opportunité agentique complétée, format PDF ou texte
 
 ## Lectures
 

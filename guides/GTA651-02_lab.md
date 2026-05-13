@@ -62,14 +62,14 @@ Par équipes de 3 : choisir un contexte (PME ou grande entreprise), remplir la g
 
 **Fichiers à produire (`repo_artifacts`) :**
 
-- `portfolio/M1_grille_selection_agents.pdf` — Grille complétée, format PDF ou document partagé
+- `portfolio/S02_grille_selection_agents.pdf` — Grille complétée, format PDF ou document partagé
 - `ai-usage.md` — Divulgation de l'usage IA si des outils ont aidé
 
 ## Remise
 
-- **Échéance :** Avant le début de la séance 3 (20 mai 2026)
+- **Échéance :** Mercredi 20 mai 2026, 8 h 30 (avant le début de S03)
 - **Artefacts requis :**
-  - `portfolio/M1_grille_selection_agents.pdf`
+  - `portfolio/S02_grille_selection_agents.pdf`
   - `ai-usage.md`
 - **Rubrique de notation :**
   - **contexte_organisationnel** (30 %) — Le contexte est explicité (taille, secteur, budget). La recommandation est différente selon le contexte PME vs grande entreprise. Les scores changent de façon justifiée entre les deux contextes.
