@@ -17,7 +17,7 @@ Apprendre à évaluer et sélectionner des solutions IA en comparant des déploi
 ## Résultats d'apprentissage
 
 - Comparer les catégories de solutions IA (automatisation, aide à la décision, génération de contenu, analyse prédictive) avec des exemples réels.
-- Appliquer un cadre de sélection technologique (impact × faisabilité × risque × coût) à Brex, Salesforce Einstein et Microsoft Copilot 365.
+- Appliquer un cadre de sélection à 5 critères (rôle spécialisé × impact × faisabilité × risque × coût) à Brex, Salesforce Einstein et Microsoft Copilot 365.
 - Identifier les prérequis organisationnels (données, compétences, infrastructure) pour chaque solution.
 - Produire une grille d'évaluation comparative documentée.
 
