@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 5 août 2026
+- **Date :** 12 août 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Studio
@@ -32,8 +32,11 @@ Analyser les enjeux éthiques réels de l'IA en entreprise à partir des cas ét
 
 ## Idées reçues à déjouer
 
+- **Mythe :** Le biais IA est causé par des développeurs malveillants
   **Réalité :** La plupart des biais IA émergent involontairement, encodés dans les données historiques qui reflètent des inégalités sociales passées. Personne chez Goldman n'a programmé la discrimination de genre — l'agent l'a apprise des données. C'est précisément ce qui rend la prévention difficile : il faut auditer les données et les sorties, pas seulement le code.
+- **Mythe :** Une IA transparente = une IA explicable techniquement
   **Réalité :** La transparence agentique a deux niveaux : technique (comment le modèle décide) et opérationnelle (qui peut auditer, qui est responsable, comment recourir). Pour les régulateurs et le public, la transparence opérationnelle compte plus que la transparence technique. Goldman a échoué sur les deux niveaux.
+- **Mythe :** Conformité réglementaire = comportement éthique
   **Réalité :** La conformité est un plancher, pas un plafond. Un système conforme à la Loi 25 peut encore être éthiquement problématique (par exemple discrimination indirecte non mesurée). La gouvernance éthique va au-delà de la conformité : audits proactifs, comité d'éthique, dialogue avec les parties prenantes affectées.
 
 ## Déroulé
@@ -67,7 +70,7 @@ Individuel : remplir la grille d'audit pour Goldman, Pfizer, ou un agent du mile
 
 ## Remise
 
-- **Échéance :** Avant la séance 13 (12 août 2026)
+- **Échéance :** Avant la séance 13 (19 août 2026)
 - **Artefacts requis :**
   - `portfolio/M5_audit_ethique.pdf`
   - `ai-usage.md`

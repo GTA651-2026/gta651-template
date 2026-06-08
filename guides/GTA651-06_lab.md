@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 10 juin 2026
+- **Date :** 17 juin 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Temps estimé :** 150 min (~2.5 h)
@@ -31,8 +31,11 @@ Identifier comment l'IA permet aux organisations de se différencier en analysan
 
 ## Idées reçues à déjouer
 
+- **Mythe :** L'avantage concurrentiel IA vient du meilleur modèle
   **Réalité :** Les modèles se commoditéisent rapidement. L'avantage concurrentiel durable vient des données propriétaires, de l'écosystème et de l'intégration. NVIDIA n'a pas le meilleur modèle — il a la meilleure infrastructure d'entraînement. Cohere n'a pas le modèle le plus puissant — il a la meilleure intégration B2B. Le gestionnaire stratégique pense en termes de fossé concurrentiel, pas de benchmark technique.
+- **Mythe :** Une stratégie IA défensive est inférieure à une stratégie offensive
   **Réalité :** Les deux stratégies créent de la valeur. Une stratégie défensive (Cohere) qui protège un marché lucratif (B2B avec marges élevées) peut être plus rentable qu'une stratégie offensive risquée. Le choix dépend du contexte concurrentiel, de la position actuelle et de l'appétit pour le risque, pas d'une hiérarchie abstraite.
+- **Mythe :** Une PME québécoise ne peut pas appliquer ces stratégies
   **Réalité :** L'échelle change, pas le principe. Une PME peut développer des données propriétaires sur son marché niche (équivalent local de la stratégie NVIDIA). Une PME peut se positionner B2B spécialisé plutôt que de concurrencer les géants (équivalent local de Cohere). Les principes stratégiques sont fractals — ils s'appliquent à toutes les échelles.
 
 ## Déroulé

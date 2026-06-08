@@ -34,9 +34,13 @@ Comprendre le changement de paradigme fondamental de l'IA générative : la couc
 
 ## Idées reçues à déjouer
 
+- **Mythe :** L'IA générative, c'est juste ChatGPT
   **Réalité :** ChatGPT est une interface. L'IA générative est une capacité technologique déployée dans des centaines de systèmes professionnels — agents de service client, outils de développement, assistants d'analyse — souvent invisibles pour l'utilisateur final. Klarna, GitHub Copilot et Morgan Stanley n'utilisent pas "ChatGPT" — ils construisent des agents spécialisés sur des modèles fondationnels.
+- **Mythe :** Les agents IA vont remplacer mon emploi immédiatement
   **Réalité :** Les cas que nous étudions montrent le contraire : Klarna a redirigé ses agents humains vers les cas complexes, Morgan Stanley a rendu ses conseillers plus efficaces, Accenture a augmenté la productivité de 12 000 développeurs (GitHub Copilot Enterprise, 2023–2024). Ce qui change, c'est le type de travail qui reste humain : le jugement, la relation, la stratégie. Ce cours vous prépare à être celui qui orchestre les agents, pas celui qui est orchestré.
+- **Mythe :** C'est une question technologique, pas stratégique
   **Réalité :** Les décisions stratégiques les plus critiques autour de l'IA agentique ne sont pas techniques : Quel rôle spécialisé dois-je automatiser en premier ? Quelles décisions restent humaines ? Comment mesurer la valeur créée ? Comment gérer les risques d'erreur d'agent ? Ce sont des questions de gestion, pas d'ingénierie.
+- **Mythe :** Si Klarna a remplacé 700 agents, on peut tout automatiser
   **Réalité :** Le même Klarna a publiquement réajusté sa stratégie en 2024-2025 : trop de remplacement humain a dégradé la qualité perçue, et l'entreprise rappelle des humains pour les cas à forte valeur (CEO Siemiatkowski, mai 2025). La leçon n'est pas « automatisez moins », mais « le bon niveau d'automatisation est une décision stratégique mesurable, pas un maximum à atteindre ». Les chiffres impressionnants du déploiement initial (2/3 des conversations, −5 % en coûts) restent réels — mais ils doivent être lus avec leur correctif post-déploiement. C'est la marque d'une vraie discipline managériale : assumer publiquement les ajustements.
 
 ## Déroulé
@@ -65,7 +69,21 @@ Individuellement : choisir UN des trois cas (Klarna, GitHub Copilot Enterprise o
 
 **Fichiers à produire (`repo_artifacts`) :**
 
-- `portfolio/S01_fiche_opportunite_agentique.pdf` — Fiche d'opportunité agentique complétée, format PDF ou texte
+- `portfolio/L1_reflexion_role_specialise.pdf` — Fiche d'opportunité agentique complétée (6 champs), format PDF ou Markdown
+
+## Remise
+
+- **Échéance :** Mercredi 20 mai 2026, 8 h 30 (avant le début de S02)
+- **Artefacts requis :**
+  - `portfolio/L1_reflexion_role_specialise.pdf`
+  - `ai-usage.md`
+- **Rubrique de notation :**
+  - **role_specialise** (25 %) — Le rôle spécialisé orchestré est nommé précisément (pas juste « un agent IA »). L'étudiant identifie quel expert humain l'agent remplace ou augmente.
+  - **probleme_affaires** (25 %) — Le problème d'affaires est formulé en langage exécutif, pas technique. Le problème est réel et spécifique au contexte choisi.
+  - **valeur_creee** (20 %) — La valeur créée est exprimée de manière mesurable ou vérifiable, quantifiée avec des données publiques. L'étudiant fait le lien entre le rôle orchestré et l'impact concret.
+  - **risque_mitigation** (15 %) — Le risque principal est identifié clairement et la mitigation proposée est concrète, réaliste et actionnable (pas un voeu pieux).
+  - **condition_succes** (10 %) — La condition de succès est formulée pour l'organisation de l'étudiant, pas en termes génériques. Elle est observable et vérifiable.
+  - **ai_disclosure** (5 %) — ai-usage.md présent et rempli, même si aucun outil IA n'a été utilisé.
 
 ## Lectures
 

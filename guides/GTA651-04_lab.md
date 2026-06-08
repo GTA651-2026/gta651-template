@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 27 mai 2026
+- **Date :** 3 juin 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Studio
@@ -32,8 +32,11 @@ Synthétiser les sessions 1-3 en réalisant un diagnostic complet pour une organ
 
 ## Idées reçues à déjouer
 
+- **Mythe :** Un diagnostic IA commence par choisir la technologie
   **Réalité :** Un diagnostic IA commence par les processus d'affaires à fort impact, pas par la technologie. La question n'est pas 'quelle IA est la meilleure ?' mais 'quel processus coûte le plus cher à l'organisation et peut être orchestré par un agent ?' La technologie est choisie APRÈS avoir défini le problème et les contraintes.
+- **Mythe :** Le mémo exécutif est un résumé technique
   **Réalité :** Le mémo exécutif traduit la technique en impact d'affaires. Le DG veut savoir : quel problème est résolu, combien ça coûte, quel est le ROI, et que se passe-t-il si ça échoue. Un mémo qui décrit l'algorithme est inutile. Un mémo qui quantifie 'réduire le délai de traitement de 5 jours à 4 heures' est convaincant.
+- **Mythe :** Avec 300 K$, on peut déployer n'importe quel type de solution IA
   **Réalité :** 300 K$ représente un budget de POC + pilote pour une solution SaaS, ou à peine le début pour une solution sur mesure (Goldman Sachs dépense des dizaines de millions). La contrainte budgétaire est un cadre de sélection, pas un obstacle — elle force la priorisation et révèle les vraies priorités stratégiques.
 
 ## Déroulé

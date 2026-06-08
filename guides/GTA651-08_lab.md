@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 8 juillet 2026
+- **Date :** 15 juillet 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Temps estimé :** 150 min (~2.5 h)
@@ -31,8 +31,11 @@ Concevoir un pipeline de décision assistée par l'IA en s'inspirant des cas ré
 
 ## Idées reçues à déjouer
 
+- **Mythe :** Plus l'IA est autonome, mieux c'est
   **Réalité :** L'autonomie n'est pas un objectif en soi — c'est un choix d'architecture qui dépend de l'enjeu, du coût d'erreur et de la disponibilité d'un expert humain. Pour les décisions à haut enjeu et faible volume, HITL bat HOOTL. Pour les décisions à faible enjeu et fort volume, HOOTL est plus efficace. Le choix d'architecture est une décision d'affaires, pas technique.
+- **Mythe :** Un seuil de confiance unique suffit pour tous les cas
   **Réalité :** Différentes décisions méritent différents seuils. Bloquer un paiement = seuil élevé (faux positifs gênent les clients). Alerter sur une anomalie = seuil moyen. Catégoriser une dépense = seuil bas (faible coût d'erreur). Les seuils doivent être asymétriques selon le coût de chaque type d'erreur.
+- **Mythe :** La boucle de feedback est optionnelle
   **Réalité :** Sans boucle de feedback, l'agent dégrade : les patterns changent, les données évoluent, les nouveaux cas apparaissent. Un agent sans feedback devient progressivement moins pertinent. La boucle de feedback (humain corrige → agent réapprend) est un composant essentiel de l'architecture, pas un bonus.
 
 ## Déroulé

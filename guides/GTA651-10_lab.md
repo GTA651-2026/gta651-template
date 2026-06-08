@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 22 juillet 2026
+- **Date :** 29 juillet 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Exam

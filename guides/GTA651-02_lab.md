@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 13 mai 2026
+- **Date :** 20 mai 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Studio
@@ -32,8 +32,11 @@ Apprendre à évaluer et sélectionner des solutions IA en comparant des déploi
 
 ## Idées reçues à déjouer
 
+- **Mythe :** Le meilleur agent IA est le plus puissant ou le plus connu
   **Réalité :** La puissance technique n'est pas le critère de sélection — c'est la pertinence au problème d'affaires. ChatGPT est très puissant mais pas conçu pour l'intégration CRM de Salesforce. Brex est spécialisé pour les PME financières. Copilot est généraliste. Le bon agent est celui qui résout le bon problème dans le bon contexte organisationnel, pas celui qui a le plus de paramètres.
+- **Mythe :** Un agent IA s'intègre facilement — il suffit de s'abonner
   **Réalité :** L'intégration est souvent le facteur limitant principal, pas la technologie. Salesforce Einstein nécessite des données CRM propres et structurées. Copilot nécessite Microsoft 365 et des processus de travail adaptés. La sélection doit inclure une évaluation des prérequis organisationnels : données, compétences, systèmes existants, et budget d'intégration — distinct du prix de la licence.
+- **Mythe :** Une grille de sélection garantit la bonne décision
   **Réalité :** La grille est un outil de structuration, pas une formule magique. Les critères sont pondérés différemment selon le contexte — pour une PME, la faisabilité prime ; pour un groupe financier, la conformité réglementaire peut tout dominer. Les scores sont des jugements, pas des vérités. La grille aide à défendre une décision devant un comité, pas à éliminer l'incertitude.
 
 ## Déroulé
@@ -44,7 +47,7 @@ Sondage d'ouverture : quelle tâche vous vole le plus de temps ? Lien avec S01 :
 
 ### Partie 2 — Cadre de sélection appliqué  *(50 min)*
 
-La grille de sélection : 4 critères (impact d'affaires, faisabilité, risque, coût total de possession). Application aux 3 agents dans 2 contextes : PME 50 employés vs grande entreprise 500+. La même solution peut scorer radicalement différemment selon le contexte. Exemple : Brex score 4/5 en faisabilité pour une PME, 2/5 pour un groupe financier qui a déjà un CFO et un ERP complexe. Discussion : pourquoi le contexte organisationnel est le facteur de sélection le plus important.
+La grille de sélection : 5 critères (rôle spécialisé orchestré, impact d'affaires, faisabilité, risque, coût total de possession). Application aux 3 agents dans 2 contextes : PME 50 employés vs grande entreprise 500+. La même solution peut scorer radicalement différemment selon le contexte. Exemple : Brex score 4/5 en faisabilité pour une PME, 2/5 pour un groupe financier qui a déjà un CFO et un ERP complexe. Discussion : pourquoi le contexte organisationnel est le facteur de sélection le plus important.
 
 ### Partie 3 — Pause  *(10 min)*
 
@@ -62,12 +65,12 @@ Par équipes de 3 : choisir un contexte (PME ou grande entreprise), remplir la g
 
 **Fichiers à produire (`repo_artifacts`) :**
 
-- `portfolio/S02_grille_selection_agents.pdf` — Grille complétée, format PDF ou document partagé
+- `portfolio/M1_grille_selection_agents.pdf` — Grille comparative complétée (3 agents, 2 contextes), format PDF ou Markdown
 - `ai-usage.md` — Divulgation de l'usage IA si des outils ont aidé
 
 ## Remise
 
-- **Échéance :** Mercredi 20 mai 2026, 8 h 30 (avant le début de S03)
+- **Échéance :** Mercredi 27 mai 2026, 8 h 30 (avant le début de S03)
 - **Artefacts requis :**
   - `portfolio/S02_grille_selection_agents.pdf`
   - `ai-usage.md`
@@ -83,7 +86,7 @@ Par équipes de 3 : choisir un contexte (PME ou grande entreprise), remplir la g
 - [Salesforce — State of Sales Report (2024)](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Données sur l'adoption de Salesforce Einstein et l'impact sur la productivité commerciale.
 - [Microsoft — Copilot Work Trend Index (2024)](https://www.microsoft.com/en-us/worklab/work-trend-index) — Étude sur l'impact de Copilot 365 sur la productivité des knowledge workers — données Accenture incluses.
 - [McKinsey — The economic potential of generative AI (2023)](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai) — Analyse des catégories de valeur créée par l'IA générative selon les fonctions d'affaires.
-- [HBR — Don't Just Tell Employees Org Changes Are Coming — Explain Why (2018)](https://hbr.org/topic/subject/technology-and-analytics) — Cadre pour évaluer et sélectionner des solutions technologiques dans un contexte d'affaires.
+- [HBR — Where Should Your Company Start with GenAI? (2024)](https://hbr.org/2024/01/where-should-your-company-start-with-genai) — Cadre HBR pour prioriser les cas d'usage IA selon l'impact et la faisabilité organisationnelle.
 
 ---
 

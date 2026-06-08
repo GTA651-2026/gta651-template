@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 12 août 2026
+- **Date :** 19 août 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Temps estimé :** 150 min (~2.5 h)
@@ -31,8 +31,11 @@ Comprendre les systèmes HITL en comparant Goldman Sachs (humain décide, IA rec
 
 ## Idées reçues à déjouer
 
+- **Mythe :** HITL = humain valide tout, donc c'est sûr
   **Réalité :** Un HITL mal conçu est une illusion de sécurité. Si l'interface ne force pas la vérification réelle (juste un bouton 'approuver'), les humains tombent rapidement dans l'automation bias. Un HITL réel inclut : information contextuelle, mécanismes anti-bias, audit du superviseur, rotation. Sans ces composants, le HITL est cosmétique.
+- **Mythe :** L'automation bias est le problème des utilisateurs, pas du système
   **Réalité :** L'automation bias est prévisible et systémique. Tous les humains y sont sujets après exposition prolongée. C'est une responsabilité de design, pas d'utilisateur. Les bons systèmes intègrent des mécanismes pour le contrer : tests injectés, métriques de vigilance, rotation des reviewers.
+- **Mythe :** Plus l'humain a de pouvoir d'intervention, mieux c'est
   **Réalité :** Trop d'options paralysent. Un HOTL où l'humain peut intervenir 'à tout moment sur n'importe quelle décision' est ingérable. Le bon design définit clairement QUAND l'intervention humaine est attendue, et automatise tout le reste. Le pouvoir d'intervention sans déclencheurs clairs = pas d'intervention.
 
 ## Déroulé

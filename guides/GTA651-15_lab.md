@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 26 août 2026
+- **Date :** 2 septembre 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Exam

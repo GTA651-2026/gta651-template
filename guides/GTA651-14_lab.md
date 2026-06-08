@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 19 août 2026
+- **Date :** 26 août 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Studio
@@ -32,8 +32,11 @@ Créer une feuille de route d'adoption IA en analysant les stratégies réelles 
 
 ## Idées reçues à déjouer
 
+- **Mythe :** Il suffit de former les employés pour qu'ils adoptent l'IA
   **Réalité :** La formation est nécessaire mais insuffisante. L'adoption dépend de 4 facteurs : (1) valeur perçue par l'utilisateur, (2) facilité d'usage, (3) absence de menace perçue (emploi, expertise), (4) renforcement social (collègues qui l'utilisent). Sans ces 4, la formation crée des utilisateurs formés mais non-adoptants.
+- **Mythe :** Le top-down est toujours plus rapide que le bottom-up
   **Réalité :** Le top-down déploie vite mais crée souvent de la compliance superficielle. Le bottom-up est plus lent à démarrer mais l'adoption est plus profonde et durable. Le meilleur design combine : top-down pour le mandat et la gouvernance, bottom-up pour l'engagement et l'innovation des cas d'usage.
+- **Mythe :** Une fois déployé, le projet est terminé
   **Réalité :** L'adoption est un processus continu, pas un événement. Les phases de scale et maturité (mois 7+) déterminent si l'investissement IA produit un retour durable. Sans gouvernance pérenne et mesure d'impact continue, l'adoption initiale s'érode.
 
 ## Déroulé
@@ -67,7 +70,7 @@ Par équipes de 3-4 : organisation fictive de 300 employés, secteur au choix. C
 
 ## Remise
 
-- **Échéance :** Avant l'examen final (26 août 2026)
+- **Échéance :** Avant l'examen final (2 septembre 2026)
 - **Artefacts requis :**
   - `portfolio/M6_feuille_route_adoption.pdf`
   - `ai-usage.md`

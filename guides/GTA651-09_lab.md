@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 15 juillet 2026
+- **Date :** 22 juillet 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Studio
@@ -32,8 +32,11 @@ Synthétiser les sessions 6-8 pour construire un business case complet justifian
 
 ## Idées reçues à déjouer
 
+- **Mythe :** Plus le ROI projeté est élevé, plus le business case est convaincant
   **Réalité :** Au contraire : un ROI démesuré déclenche le scepticisme du CFO. Un business case crédible présente des hypothèses conservatrices, ancrées dans des benchmarks réels, avec une fourchette plutôt qu'un chiffre unique. Le 'sous-promettre / sur-livrer' bat 'sur-promettre / sous-livrer'.
+- **Mythe :** Un benchmark = un chiffre à copier-coller
   **Réalité :** Un bon usage d'un benchmark ajuste pour le contexte. Les témoignages clients Brex documentent des économies de temps significatives (ex. : 70 h/mois dans certains cas) pour des PME à équipe finance réduite. Pour IndustrIA (500 employés, finance de ~8 personnes), il faut transposer en justifiant l'ajustement (linéaire ? sublinéaire ?). Sans cette transposition, le benchmark perd sa crédibilité.
+- **Mythe :** Un business case présenté = un business case approuvé
   **Réalité :** L'approbation vient de la simulation des objections. Un business case qui n'anticipe pas les questions difficiles du C-suite (et n'y répond pas en avance) sera renvoyé pour révisions. La préparation aux objections est 50 % du travail.
 
 ## Déroulé
@@ -67,7 +70,7 @@ Chaque équipe (5-7 min) présente son business case devant un comité fictif. L
 
 ## Remise
 
-- **Échéance :** Avant la séance 10 (22 juillet 2026)
+- **Échéance :** Avant la séance 10 (29 juillet 2026)
 - **Artefacts requis :**
   - `portfolio/M4_business_case.pdf`
   - `ai-usage.md`

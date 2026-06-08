@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 17 juin 2026
+- **Date :** 24 juin 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Studio
@@ -32,8 +32,11 @@ Comprendre comment l'IA transforme les pratiques de prévision et de modélisati
 
 ## Idées reçues à déjouer
 
+- **Mythe :** Un modèle à 80 % de confiance signifie que la prédiction sera correcte 80 % du temps
   **Réalité :** 80 % de confiance ne signifie pas 80 % de précision. La confiance est une probabilité estimée par le modèle — elle peut être mal calibrée. Un modèle peut être 'très confiant' et complètement faux. La calibration de la confiance est un sujet en soi. Le gestionnaire doit savoir si le modèle sous-estime ou surestime systématiquement sa propre confiance.
+- **Mythe :** Les données synthétiques rendent les données réelles inutiles
   **Réalité :** Les données synthétiques complètent les données réelles, elles ne les remplacent pas. NVIDIA utilise les deux : synthétique pour la couverture de scénarios rares, réel pour la validation. Le gap sim-to-real est un problème réel : un véhicule qui performe bien en simulation peut échouer dans la vraie vie. La validation sur données réelles reste indispensable.
+- **Mythe :** L'IA prédictive est plus risquée que la décision humaine
   **Réalité :** L'IA prédictive bien gouvernée est souvent moins risquée qu'une décision humaine seule — elle traite plus de données, est moins sujette aux biais cognitifs, et offre une traçabilité. Le risque apparaît quand l'humain abdique sa responsabilité d'interprétation et de jugement (automation bias). L'IA + humain bien orchestré bat généralement chacun séparément.
 
 ## Déroulé
@@ -67,7 +70,7 @@ Individuel : rédiger le rapport d'évaluation pour Citibank ou NVIDIA. Identifi
 
 ## Remise
 
-- **Échéance :** Avant la séance 8 (8 juillet 2026)
+- **Échéance :** Avant la séance 8 (15 juillet 2026)
 - **Artefacts requis :**
   - `portfolio/M6_rapport_evaluation.pdf`
   - `ai-usage.md`

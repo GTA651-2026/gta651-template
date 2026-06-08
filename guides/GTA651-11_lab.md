@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 29 juillet 2026
+- **Date :** 5 août 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Temps estimé :** 150 min (~2.5 h)
@@ -31,8 +31,11 @@ Maîtriser les métriques clés pour évaluer l'IA en s'appuyant sur des donnée
 
 ## Idées reçues à déjouer
 
+- **Mythe :** Une bonne précision technique = un agent qui réussit en production
   **Réalité :** Le 'gap labo-production' est le piège classique. Un agent à 98 % de précision en laboratoire peut tomber à 70 % en production si les données réelles diffèrent. Surtout : un agent précis mais inutilisé crée zéro valeur. La précision technique est nécessaire mais jamais suffisante.
+- **Mythe :** Plus on a de métriques, mieux c'est
   **Réalité :** Un tableau de bord à 30 métriques ne sera consulté par personne. La discipline est de choisir 5-7 métriques alignées au public visé. Les exécutifs veulent 3-4 métriques d'affaires ; les équipes IA veulent 5-6 techniques. Deux tableaux distincts battent un tableau encyclopédique.
+- **Mythe :** Le drift est rare et facile à détecter
   **Réalité :** Le drift est constant et silencieux. Sans surveillance active, il passe inaperçu jusqu'à ce que les utilisateurs s'en plaignent. Les bons systèmes ont des alertes automatiques sur la distribution des entrées et des sorties — pas seulement sur la précision finale.
 
 ## Déroulé

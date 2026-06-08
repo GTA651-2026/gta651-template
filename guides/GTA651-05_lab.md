@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 3 juin 2026
+- **Date :** 10 juin 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Exam
