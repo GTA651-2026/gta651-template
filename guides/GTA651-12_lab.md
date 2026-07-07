@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Date :** 12 août 2026
+- **Date :** 8 juillet 2026
 - **Horaire :** 8 h 30 – 11 h 30
 - **Lieu :** Sherbrooke
 - **Mode :** Studio
@@ -41,9 +41,13 @@ Analyser les enjeux éthiques réels de l'IA en entreprise à partir des cas ét
 
 ## Déroulé
 
-### Partie 1 — Apple Card : allégations, enquête NY-DFS et leçons de gouvernance  *(50 min)*
+### Partie 0 — Vignettes d'ouverture : la gouvernance à l'échelle individuelle  *(10 min)*
 
-Sondage d'ouverture sur la responsabilité. Décortiquer le scandale Apple Card 2019 : chronologie, sources possibles du biais (données historiques, variables proxy), réaction du régulateur NY-DFS, coûts pour Goldman et Apple. Taxonomie des biais agentiques : biais des données, biais de conception, biais de déploiement, biais d'interprétation.
+Lecture rapide des deux vignettes (Farid : surveillance vibratoire ; Aminata : calcul structurel). Sondage Moodle instantané : 'Qui est responsable de la panne de Farid ?' (stagiaire / outil IA / organisation). Révélation et transition : 'Même mécanique, même cause fondamentale que Goldman Sachs — absence d'une porte de gouvernance. C'est le fil conducteur de cette séance.'
+
+### Partie 1 — Apple Card : allégations, enquête NY-DFS et leçons de gouvernance  *(40 min)*
+
+Chronologie des allégations Apple Card 2019–2021 (tweets Steve Wozniak, enquête NY-DFS, conclusion mars 2021). Décortiquer l'anatomie du biais : source probable (données historiques), variable proxy (historique de crédit conjoint), amplification par l'agent. Taxonomie des biais agentiques : biais des données, biais de conception, biais de déploiement, biais d'interprétation. Coûts réputationnels malgré absence de sanction légale. Lien explicite avec Farid : 'même mécanique, autre échelle.'
 
 ### Partie 2 — Pfizer : gouvernance by design  *(50 min)*
 
@@ -55,7 +59,7 @@ Pause. Distribuer la grille d'audit éthique pour préparer l'exercice.
 
 ### Partie 4 — Exercice : audit éthique  *(40 min)*
 
-Individuel : remplir la grille d'audit pour Goldman, Pfizer, ou un agent du milestone M3/M4. Partage en paires (5 min chacun) avec critique sur : sources de biais plausibles ? Cadre de gouvernance opérationnel ? Référence réglementaire correcte ? 2-3 partages au groupe.
+Individuel : remplir la grille d'audit pour Goldman, Pfizer, Farid, Aminata, ou un agent du milestone personnel. Le template est disponible sur Moodle. Partage en paires (5 min chacun) avec critique sur : sources de biais plausibles ? Cadre de gouvernance opérationnel ? Référence réglementaire correcte ? 2-3 partages au groupe.
 
 ## Lab
 
@@ -63,17 +67,12 @@ Individuel : remplir la grille d'audit pour Goldman, Pfizer, ou un agent du mile
 
 **Livrable :** Grille d'audit éthique (1.5 page)
 
-**Fichiers à produire (`repo_artifacts`) :**
-
-- `portfolio/M5_audit_ethique.pdf` — Audit éthique simplifié complété
-- `ai-usage.md` — Divulgation de l'usage IA si applicable
-
 ## Remise
 
-- **Échéance :** Avant la séance 13 (19 août 2026)
+- **Échéance :** Avant la séance 10 (15 juillet 2026, 8 h 00)
 - **Artefacts requis :**
-  - `portfolio/M5_audit_ethique.pdf`
-  - `ai-usage.md`
+  - `GTA651_S09_audit-ethique_CIP.pdf (déposé sur Moodle)`
+  - `GTA651_S09_ai-usage_CIP.md (déposé sur Moodle)`
 - **Rubrique de notation :**
   - **sources_biais_identifiees** (25 %) — Sources plausibles dans les données, le modèle ou le déploiement.
   - **parties_prenantes_cartographiees** (15 %) — Impact différentiel sur chaque partie prenante explicité.
